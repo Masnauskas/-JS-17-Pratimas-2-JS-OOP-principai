@@ -1,0 +1,10 @@
+.box > img {
+  width: 100px;
+  height: 100px;
+}
+
+.mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
